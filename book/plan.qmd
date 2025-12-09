@@ -114,7 +114,7 @@ This block serves to critically reflect on working with big data and using (blac
 
 [Link to tutorial](https://geco-bern.github.io/drought_predictors_competition/exercises.html)
 
-This block introduces an example of using ML algorithms for [drought prediction](https://geco-bern.github.io/drought_predictors_competition/exercises.html).
+This block introduces an example of using ML algorithms for [multispectral water stress monitoring](https://geco-bern.github.io/drought_predictors_competition/exercises.html).
 We provide an example data set from ongoing research, where the goal is to fit 
 recorded vegetation stress expressed as the fractional Light Use Efficiency (fLUE), 
 observed at eddy covariance sites from the Fluxnet network.
