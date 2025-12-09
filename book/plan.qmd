@@ -108,7 +108,7 @@ This block serves to critically reflect on working with big data and using (blac
 - Paper discussion of Ludwig et al. [-@ludwig23geb]
 - Self-study of literature and report exercise
 
-## Block 6: Drought prediction {.unnumbered}
+## Block 6: Multispectral water stress monitoring {.unnumbered}
 
 *Lead: Benjamin Stocker*
 
@@ -124,6 +124,7 @@ your prediction results on the test data set to a common [leaderboard](https://g
 
 ### Session 13 - 09.12. {.unnumbered}
 
+- Introduction to multispectral water stress monitoring
 - Self-study of literature and report exercises
 
 ### Session 14 - 16.12. {.unnumbered}
